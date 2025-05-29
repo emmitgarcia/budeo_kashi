@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budeogemu Kaisha</title>
+</head>
+<body>
+    <header>
+        <h1 style="text-align: center;">Budeogemu Kaisha</h1>
+    </header>
+
+    <section>
+        <h2>¿Qué es Budeogemu Kaisha?</h2>
+        <p>
+            Budeogemu Kaisha es el portal definitivo para los apasionados de los videojuegos y la tecnología.
+            Con noticias frescas, reseñas detalladas y análisis profundos, este sitio cubre todo lo relacionado
+            con consolas, juegos y tendencias del mundo gamer.
+        </p>
+    </section>
+
+    <section>
+        <h2>¿Qué encontrarás aquí?</h2>
+        <p>
+            Desde los títulos más esperados hasta gemas ocultas, el sitio ofrece contenido para jugadores
+            de todas las plataformas: PlayStation, Xbox, Nintendo y PC. Además, contamos con secciones especializadas que exploran
+            la historia de los videojuegos, consejos de jugabilidad y una comunidad vibrante de jugadores que comparten experiencias e impresiones. 🚀🎮
+        </p>
+    </section>
+
+    <section>
+        <h2>Ventajas y exclusivos de cada consola</h2>
+
+        <article>
+            <h3>Xbox</h3>
+            <h4>Pros</h4>
+            <ul>
+                <li><strong>Hardware potente:</strong> Consolas como Xbox Series X cuentan con procesadores y GPUs avanzadas.</li>
+                <li><strong>Retrocompatibilidad:</strong> Puedes jugar títulos de generaciones anteriores.</li>
+                <li><strong>Xbox Game Pass:</strong> Biblioteca de juegos extensa sin necesidad de comprar individualmente.</li>
+                <li><strong>Quick Resume:</strong> Cambio rápido entre juegos sin largos tiempos de carga.</li>
+            </ul>
+
+            <h4>Contras</h4>
+            <ul>
+                <li><strong>Precio elevado:</strong> Especialmente los modelos de gama alta.</li>
+                <li><strong>Tamaño y peso:</strong> Puede ser difícil de ubicar en espacios reducidos.</li>
+                <li><strong>Exclusividad de juegos:</strong> Algunos títulos están disponibles en otras plataformas.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>PlayStation</h3>
+            <h4>Pros</h4>
+            <ul>
+                <li><strong>Exclusivos de alta calidad:</strong> Juegos como *The Last of Us* y *God of War*.</li>
+                <li><strong>Gráficos impresionantes:</strong> PS5 ofrece 4K y hasta 120Hz.</li>
+                <li><strong>Experiencia inmersiva:</strong> Tecnología de audio 3D y mando DualSense.</li>
+            </ul>
+
+            <h4>Contras</h4>
+            <ul>
+                <li><strong>Precio elevado:</strong> La consola y sus accesorios pueden ser costosos.</li>
+                <li><strong>Disponibilidad limitada:</strong> Puede ser difícil de conseguir.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>Nintendo</h3>
+            <h4>Pros</h4>
+            <ul>
+                <li><strong>Exclusivos icónicos:</strong> Franquicias como *The Legend of Zelda*, *Super Mario* y *Pokémon*.</li>
+                <li><strong>Innovación en jugabilidad:</strong> Consolas híbridas como la Nintendo Switch.</li>
+                <li><strong>Accesibilidad y diversión:</strong> Juegos aptos para todas las edades.</li>
+            </ul>
+
+            <h4>Contras</h4>
+            <ul>
+                <li><strong>Menos potencia gráfica:</strong> Comparado con PlayStation y Xbox.</li>
+                <li><strong>Servicio en línea limitado:</strong> Menos opciones de comunicación y juego en línea.</li>
+                <li><strong>Joy-Con Drift:</strong> Problemas de desgaste en controles.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>PC para Gaming</h3>
+            <h4>Pros</h4>
+            <ul>
+                <li><strong>Potencia y rendimiento:</strong> Hardware de última generación.</li>
+                <li><strong>Personalización total:</strong> Modificaciones gráficas y rendimiento.</li>
+                <li><strong>Mods y comunidad:</strong> Contenido extra creado por usuarios.</li>
+            </ul>
+
+            <h4>Contras</h4>
+            <ul>
+                <li><strong>Costo inicial elevado:</strong> Un buen PC gamer puede ser caro.</li>
+                <li><strong>Mantenimiento y actualizaciones:</strong> Necesita limpieza y mejoras de hardware.</li>
+            </ul>
+        </article>
+    </section>
+   <h2>Géneros de videojuegos y los mejores títulos</h2>
+
+        <article>
+            <h3>Acción: <a href="https://www.nintendo.com">Metroid Prime</a></h3>
+            <p>Una experiencia intensa en primera persona con exploración y combates estratégicos.</p>
+        </article>
+
+        <article>
+            <h3>Aventura: <a href="https://www.nintendo.com">The Legend of Zelda: Ocarina of Time</a></h3>
+            <p>Un clásico que marcó la historia del género con su narrativa épica.</p>
+        </article>
+
+        <article>
+            <h3>RPG: <a href="https://thewitcher.com">The Witcher 3: Wild Hunt</a></h3>
+            <p>Un RPG de mundo abierto con una historia cautivadora y decisiones que afectan el universo.</p>
+        </article>
+
+        <article>
+            <h3>Estrategia: <a href="https://starcraft2.com">StarCraft II</a></h3>
+            <p>El referente de estrategia en tiempo real con una comunidad activa en los eSports.</p>
+        </article>
+
+        <article>
+            <h3>Simulación: <a href="https://www.microsoft.com/en-us/flight-simulator">Microsoft Flight Simulator</a></h3>
+            <p>La mejor simulación de vuelo con gráficos realistas y precisión en la mecánica de pilotaje.</p>
+        </article>
+
+        <article>
+            <h3>Deportes: <a href="https://www.ea.com/games/fifa/fifa-23">FIFA 23</a></h3>
+            <p>El simulador de fútbol más reconocido y jugado mundialmente.</p>
+        </article>
+
+        <article>
+            <h3>Carreras: <a href="https://forzamotorsport.net">Forza Horizon 5</a></h3>
+            <p>Un título que redefine la experiencia de carreras con mundo abierto y conducción espectacular.</p>
+        </article>
+
+        <article>
+            <h3>Lucha: <a href="https://www.smashbros.com">Super Smash Bros. Ultimate</a></h3>
+            <p>Combates frenéticos con personajes icónicos de Nintendo.</p>
+        </article>
+
+        <article>
+            <h3>Puzzle: <a href="https://store.steampowered.com/app/620/Portal_2/">Portal 2</a></h3>
+            <p>Ingenioso diseño basado en puzzles con una narrativa inteligente.</p>
+        </article>
+
+        <article>
+            <h3>Indie/Metroidvania: <a href="https://www.hollowknight.com">Hollow Knight</a></h3>
+            <p>Un juego indie con atmósfera envolvente y combates desafiantes.</p>
+        </article>
+    </section>
+    <style>
+           </style>
+    <p>Selecciona un enlace para acceder al contenido:</p>
+    
+    <ul>
+        <li><a href="file:///C:/Users/aldan/OneDrive/Documentos/Rese%C3%B1as.html">Reseñas</a></li>
+        <li><a href="file:///C:/Users/aldan/OneDrive/Documentos/foro_comunidad.html">Foro / Comunidad</a></li>
+        <li><a href="file:///C:/Users/aldan/OneDrive/Documentos/noticias.html">Noticias</a></li>
+    </ul>
+    <footer>
+        <p>© 2025 Budeogemu Kaisha - Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>
