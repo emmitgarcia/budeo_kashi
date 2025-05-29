@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budeogemu Kaisha - Comunidad</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        header, footer {
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 15px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        article {
+            margin-bottom: 15px;
+            padding: 10px;
+            border-left: 4px solid #0078D7;
+            background-color: #f9f9f9;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Budeogemu Kaisha</h1>
+    </header>
+
+    <section>
+        <h2>Comunidad / Foro</h2>
+
+        <article>
+            <h3>Nintendo</h3>
+            <ul>
+                <li><strong>Nintenderos:</strong> Foro dedicado a franquicias como <em>Super Mario</em>, <em>Zelda</em> y <em>Pokémon</em>. [Explorar](https://www.nintenderos.com/foro-nintendo/).</li>
+                <li><strong>Foro Vandal - Nintendo:</strong> Hilos sobre juegos como <em>Mario Kart</em> y <em>Xenoblade Chronicles</em>. [Visitar](https://vandal.elespanol.com/foro/78/nintendo/).</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>Xbox</h3>
+            <ul>
+                <li><strong>Comunidad Xbox:</strong> Noticias y debates sobre títulos como <em>Gears of War</em> y <em>Halo</em>. [Explorar](https://comunidadxbox.com/).</li>
+                <li><strong>Microsoft Community - Xbox:</strong> Foro oficial de Microsoft. [Visitar](https://answers.microsoft.com/es-es).</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>PlayStation</h3>
+            <ul>
+                <li><strong>Foro Vandal - PlayStation:</strong> Hilos sobre <em>Final Fantasy VII Rebirth</em>, <em>Elden Ring</em> y más. [Visitar](https://vandal.elespanol.com/foro/79/sony-playstation/).</li>
+                <li><strong>Noticias sobre la comunidad de PlayStation:</strong> Sony cierra los foros oficiales. [Leer más](https://www.levelup.com/noticia/sony-cerrara-sorpresa-foros-comunidad-playstation/).</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>PC</h3>
+            <ul>
+                <li><strong>Foro Hardware:</strong> Configuración de PC, recomendaciones y debates sobre gaming. [Explorar](https://forohardware.com/).</li>
+                <li><strong>Geeknetic:</strong> Secciones sobre procesadores, tarjetas gráficas y más. [Visitar](https://foro.geeknetic.es/).</li>
+                <li><strong>Razorman.net:</strong> Foros sobre seguridad informática y software. [Ver aquí](https://www.enlared.biz/foros-informatica.html).</li>
+            </ul>
+        </article>
+    </section>
+<p>Selecciona un enlace para acceder al contenido:</p>
+    
+    <ul>
+        <li><a href="file:///C:/Users/aldan/OneDrive/Documentos/Rese%C3%B1as.html">Reseñas</a></li>
+        <li><a href="file:///C:/Users/aldan/OneDrive/Documentos/noticias.html">Noticias</a></li>
+        <a href="file:///C:/Users/aldan/OneDrive/Documentos/budeogemu_kashi.html">Volver a Budeogemu Kaisha</a>
+    </ul>
+
+    <footer>
+        <p>© 2025 Budeogemu Kaisha - Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>
