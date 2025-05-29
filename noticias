@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budeogemu Kaisha - Noticias</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        header, footer {
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 15px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        article {
+            margin-bottom: 15px;
+            padding: 10px;
+            border-left: 4px solid #0078D7;
+            background-color: #f9f9f9;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Budeogemu Kaisha</h1>
+    </header>
+
+    <section>
+        <h2>Noticias</h2>
+
+        <article>
+            <h3>Nintendo</h3>
+            <ul>
+                <li><strong>Nintendo Switch 2:</strong> Filtraciones de unboxing antes del lanzamiento el <strong>5 de junio</strong>. Nintendo toma medidas legales.</li>
+                <li><strong>Compatibilidad con mouse:</strong> Switch 2 soportará cualquier mouse de PC.</li>
+                <li><strong>Nintendo Direct:</strong> Rumores indican un evento entre el <strong>2 y el 8 de junio</strong>.</li>
+                <li><strong>Actualización de Switch:</strong> Nintendo sigue dando soporte con nuevas actualizaciones.</li>
+                <li><strong>Pokémon Legends: Z-A:</strong> Sale el <strong>16 de octubre</strong>, con mejoras en Switch 2.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>Xbox</h3>
+            <ul>
+                <li><strong>Summer Game Fest 2025:</strong> Xbox participará el <strong>6 de junio</strong>.</li>
+                <li><strong>IA de Xbox en celulares:</strong> Microsoft lanza asistente de IA en México.</li>
+                <li><strong>Mando inalámbrico en oferta:</strong> Rebaja en Amazon, el más vendido.</li>
+                <li><strong>Baterías recargables:</strong> Se recomienda para ahorrar y reducir residuos.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>PlayStation</h3>
+            <ul>
+                <li><strong>Days of Play 2025:</strong> Descuentos en consolas, juegos y accesorios hasta el <strong>11 de junio</strong>.</li>
+                <li><strong>PS5 Slim Digital:</strong> Paquete con <em>Ratchet & Clank: Rift Apart</em> y <em>Returnal</em> a <strong>$7,999 MXN</strong>.</li>
+                <li><strong>PlayStation Plus:</strong> Cuatro juegos gratis en junio.</li>
+                <li><strong>Spider-Man en PlayStation:</strong> Lista completa de títulos disponibles.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>PC</h3>
+            <ul>
+                <li><strong>Windows 12:</strong> Se rumorea que requerirá mínimo <strong>8 GB de RAM y SSD</strong>.</li>
+                <li><strong>Problemas con modo reposo:</strong> Monitores bloquean suspensión por procesos en segundo plano.</li>
+                <li><strong>MindsEye:</strong> Nuevo juego del creador de GTA, lanzamiento el <strong>10 de junio</strong>.</li>
+                <li><strong>Mini PC de Zotac:</strong> Con <strong>RTX 5060 Ti</strong> en formato compacto.</li>
+            </ul>
+        </article>
+    </section>
+<p>Selecciona un enlace para acceder al contenido:</p>
+    
+    <ul>
+        <li><a href="file:///C:/Users/aldan/OneDrive/Documentos/Rese%C3%B1as.html">Reseñas</a></li>
+        <li><a href="file:///C:/Users/aldan/OneDrive/Documentos/foro_comunidad.html">Foro / Comunidad</a></li>
+        <a href="file:///C:/Users/aldan/OneDrive/Documentos/budeogemu_kashi.html">Volver a Budeogemu Kaisha</a>
+    </ul>
+
+    <footer>
+        <p>© 2025 Budeogemu Kaisha - Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>
