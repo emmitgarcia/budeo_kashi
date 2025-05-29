@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budeogemu Kaisha Reseñas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        header, footer {
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 15px;
+            margin-bottom: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Budeogemu Kaisha</h1>
+    </header>
+
+    <section>
+        <h2>Reseñas de cada consola</h2>
+
+        <article>
+            <h3>Nintendo</h3>
+            <ul>
+                <li><strong>Nintendo Switch 2:</strong> Se lanza el <strong>5 de junio de 2025</strong>. Cuenta con pantalla LCD de <strong>7.9 pulgadas</strong> y resolución <strong>1080p</strong>. No habrá unidades de reseña anticipadas.</li>
+                <li><strong>Nintendo Switch OLED:</strong> Pantalla <strong>OLED de 7 pulgadas</strong>. No mejora rendimiento, pero optimiza la experiencia portátil.</li>
+                <li><strong>Nintendo Switch original:</strong> Recibió buenas críticas por su concepto híbrido, pero tenía un catálogo inicial limitado.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>Xbox</h3>
+            <ul>
+                <li><strong>Xbox Series X:</strong> 12 teraflops de potencia, soporte <strong>4K</strong> y hasta <strong>8K</strong>. SSD de <strong>1TB</strong>.</li>
+                <li><strong>Xbox Series S:</strong> Más compacta y económica. Resolución <strong>1440p</strong>.</li>
+                <li><strong>Xbox Game Pass:</strong> Servicio de suscripción con amplia biblioteca de juegos.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>PlayStation</h3>
+            <ul>
+                <li><strong>PlayStation 5:</strong> Gran rendimiento, pero almacenamiento limitado (<strong>825 GB</strong>).</li>
+                <li><strong>PlayStation Portal:</strong> Dispositivo de juego remoto.</li>
+                <li><strong>Accesorios y juegos:</strong> Éxitos de 2023 incluyen <em>Marvel’s Spider-Man 2</em>, <em>Hogwarts Legacy</em>.</li>
+            </ul>
+        </article>
+
+        <article>
+            <h3>PC Gaming</h3>
+            <ul>
+                <li><strong>HP Victus 15L:</strong> Intel Core i5 y Radeon RX 6400.</li>
+                <li><strong>Lenovo IdeaCentre Gaming:</strong> Procesador Intel Core i5 de 12ª generación.</li>
+                <li><strong>OMEN 16:</strong> Gráficos NVIDIA RTX 4060.</li>
+                <li><strong>Beastcom Q3:</strong> Modelo accesible con AMD Quad-core.</li>
+            </ul>
+        </article>
+    </section>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budeogemu Kaisha - Enlaces</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            text-decoration: none;
+            color: #0078D7;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Budeogemu Kaisha - Enlaces</h1>
+
+    <p>Selecciona un enlace para acceder al contenido:</p>
+    
+    <ul>
+        <li><a href="file:///C:/Users/aldan/OneDrive/Documentos/foro_comunidad.html">Foro / Comunidad</a></li>
+        <li><a href="file:///C:/Users/aldan/OneDrive/Documentos/noticias.html">Noticias</a></li>
+        <a href="file:///C:/Users/aldan/OneDrive/Documentos/budeogemu_kashi.html">Volver a Budeogemu Kaisha</a>
+    </ul>
+
+</body>
+</html>
+    <footer>
+        <p>© 2025 Budeogemu Kaisha - Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>
